@@ -10,3 +10,11 @@ body {
 span {
   font-family: monospace;
 }
+
+.title {
+  color: aqua;
+}
+
+li {
+  color: blueviolet;
+}
