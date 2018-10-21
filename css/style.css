@@ -1,0 +1,12 @@
+body {
+  margin: 40px auto;
+  width: 650px;
+  font-size: 18px;
+  color: #444;
+  padding: 0 10px;
+  line-height: 1.6;
+}
+
+span {
+  font-family: monospace;
+}
